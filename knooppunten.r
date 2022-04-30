@@ -95,8 +95,8 @@ plot_name <- function(string) {
 
 # Run everything
 # --------------------------------------------------------
-traffic_file_2019 <- "/home/xavier/projects/traffic/INWEVA_2019/A. Outputbestanden Excel/INWEVA_2019_weekdag_uren.xlsx"
-roads_file <- "/home/xavier/projects/traffic/INWEVA_2019/B. Outputbestanden Shapes/Definitief_INWEVA_2019_Weekdag_uren_deel2.shp"
+traffic_file_2019 <- "INWEVA_2019/A. Outputbestanden Excel/INWEVA_2019_weekdag_uren.xlsx"
+roads_file <- "INWEVA_2019/B. Outputbestanden Shapes/Definitief_INWEVA_2019_Weekdag_uren_deel2.shp"
 
 # Highway Exchanges. I chose these 4 because they are some of the busiest and are each next to one of the major cities, but feel free to choose others
 knooppunten <- c('Kp Oudenrijn','Kp Prins Clausplein','Kp Ridderkerk-Noord','Kp Badhoevedorp')
